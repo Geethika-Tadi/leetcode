@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/happy-number/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 40.7 MB
+- **Runtime:** 3 ms
+- **Memory:** 19.2 MB
 
 ---
 
