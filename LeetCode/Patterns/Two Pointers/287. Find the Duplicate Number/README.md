@@ -1,6 +1,6 @@
 # 📝 287. Find the Duplicate Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/?envType=problem-list-v2&envId=bit-manipulation)
+🔗 [Problem Link](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 83 MB
 
 ---
 
