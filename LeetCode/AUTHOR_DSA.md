@@ -12,7 +12,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  2.1: DIGIT BASICS & NUMBER FORMA
 - [ ] Subtract the Product and Sum of Digits of an Integer
 - [ ] Count the Digits That Divide a Number
-- [x] [Reverse Integer](./C/Medium/7. Reverse Integer/)
+- [x] [Reverse Integer](./Python/Medium/7. Reverse Integer/)
 - [x] [Palindrome Number](./Python/Easy/9. Palindrome Number/)
 - [ ] Add Digits
 
