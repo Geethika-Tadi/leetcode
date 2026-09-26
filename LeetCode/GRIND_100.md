@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 12 / 100 (12.0%)
+- **Completed:** 13 / 100 (13.0%)
 
 ---
 
@@ -23,7 +23,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Find All Numbers Disappeared in an Array](./Java/Easy/448. Find All Numbers Disappeared in an Array/)
 
 ### 📂 Subarray & Sliding Window
-- [ ] Maximum Subarray
+- [x] [Maximum Subarray](./Java/Medium/53. Maximum Subarray/)
 - [ ] Subarray Sum Equals K
 - [ ] Sliding Window Maximum
 - [x] [Longest Substring Without Repeating Characters](./Java/Medium/3. Longest Substring Without Repeating Characters/)
