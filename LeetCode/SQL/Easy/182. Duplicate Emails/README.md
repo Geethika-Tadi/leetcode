@@ -8,7 +8,7 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** 411 ms
+- **Runtime:** 465 ms
 - **Memory:** 0B
 
 ---
