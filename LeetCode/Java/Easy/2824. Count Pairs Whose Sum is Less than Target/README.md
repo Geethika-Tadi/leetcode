@@ -1,6 +1,6 @@
 # 📝 2824. Count Pairs Whose Sum is Less than Target (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)
+🔗 [Problem Link](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
