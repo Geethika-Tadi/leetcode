@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 18 / 238 (7.6%)
+- **Completed:** 19 / 238 (8.0%)
 
 ---
 
@@ -37,7 +37,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 MODULE  2.5: POWER, EXPONENT & LOGIC MAT
 - [ ] Nth Magical Number
 - [x] [Power of Two](./Python/Easy/231. Power of Two/)
-- [ ] Power of Three
+- [x] [Power of Three](./Python/Easy/326. Power of Three/)
 - [ ] Power of Four
 - [ ] Integer Break
 
