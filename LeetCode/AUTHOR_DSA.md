@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 20 / 238 (8.4%)
+- **Completed:** 21 / 238 (8.8%)
 
 ---
 
@@ -166,7 +166,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Score of a String
 - [ ] Reverse String
 - [ ] Truncate Sentence
-- [ ] To Lower Case
+- [x] [To Lower Case](./Python/Easy/742. To Lower Case/)
 - [ ] Remove Trailing Zeros
 - [ ] Senior Citizens Count
 - [ ] Number of Segments in a String
