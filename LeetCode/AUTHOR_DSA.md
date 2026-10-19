@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 22 / 238 (9.2%)
+- **Completed:** 23 / 238 (9.7%)
 
 ---
 
@@ -192,7 +192,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Rotate String
 - [ ] First Palindromic String
 - [ ] Reverse Only Letters
-- [ ] Reverse Vowels of a String
+- [x] [Reverse Vowels of a String](./Python/Easy/345. Reverse Vowels of a String/)
 - [ ] Longest Substring Without Repeating Characters
 - [x] [Jewels and Stones](./Python/Easy/782. Jewels and Stones/)
 - [ ] Find the Difference
